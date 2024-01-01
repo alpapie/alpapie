@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web and mobile devolopement
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me on my gmail adress alpapie0908@gmailo.com
 
 <!---
 alpapie/alpapie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
